@@ -10,4 +10,4 @@ print("Destino:", destino)
 print("Pasajeros:", pasajeros)
 print("Tarifa por pasajero: $", tarifa_por_pasajero)
 print("Total a pagar: $", total_pagar)
-# autobus
+# autobus dany 
